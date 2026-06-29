@@ -2,6 +2,12 @@
 
 A lightweight Windows system panel designed for quick access to essential system controls and real-time monitoring.
 
+
+## 📸 Screenshot
+
+![Vortex Panel](screenshot.png)
+
+
 ## ✨ Features
 
 - 📊 CPU & RAM Monitoring
