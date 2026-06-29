@@ -6,6 +6,7 @@ A lightweight Windows system panel designed for quick access to essential system
 ## 📸 Screenshot
 
 ![Vortex Panel](image.png)
+![Vortex Panel](screenshot.png)
 
 
 ## ✨ Features
